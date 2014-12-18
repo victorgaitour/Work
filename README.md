@@ -1,13 +1,15 @@
 
-Victor Gaitour
+### Victor Gaitour
 Fall Semester
 Main Projects
 
-Assassin
-Alex Libman, Julian Kalogerakis, Kyler Chase, David Dvorkin, Victor Gaitour
-Description
+###Assassin
 
-Assassin web app
+Alex Libman, Julian Kalogerakis, Kyler Chase, David Dvorkin, Victor Gaitour
+==============
+###Description
+
+###Assassin web app
 https://github.com/kingalex11235/Assassin.git 
 
 Language Interpreter/Data Scraping
