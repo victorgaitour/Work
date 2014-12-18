@@ -5,7 +5,7 @@ Main Projects
 
 ###Assassin
 
-Alex Libman, Julian Kalogerakis, Kyler Chase, David Dvorkin, Victor Gaitour
+###Alex Libman, Julian Kalogerakis, Kyler Chase, David Dvorkin, Victor Gaitour
 ==============
 ###Description
 
